@@ -4,6 +4,6 @@ public class welcomeWorld {
     }
 
     public static String printMessage() {
-        return "Hi! My name is Alyona and I tried many time to create conflict";
+        return "Hi! My name is Alyona and I do it again and again";
     }
 }
