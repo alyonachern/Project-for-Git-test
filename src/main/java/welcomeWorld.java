@@ -4,6 +4,6 @@ public class welcomeWorld {
     }
 
     public static String printMessage() {
-        return "Hi! My name is Alyona and I can test";
+        return "This is text to create merge conflict";
     }
 }
