@@ -4,6 +4,6 @@ public class welcomeWorld {
     }
 
     public static String printMessage() {
-        return "Hi! My name is Alyona and I can test in notmain branch";
+        return "Hi! My name is Alyona and I can test in notmain branch :)";
     }
 }
