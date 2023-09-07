@@ -4,6 +4,6 @@ public class welcomeWorld {
     }
 
     public static String printMessage() {
-        return "Hi! My name is Alyona and I have already create a new branch";
+        return "Hi! My name is Alyona and I have already repeat steps";
     }
 }
