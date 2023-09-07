@@ -4,6 +4,6 @@ public class welcomeWorld {
     }
 
     public static String printMessage() {
-        return "Hi! My name is Alyona and I am in feature branch";
+        return "Welcome, world!";
     }
 }
